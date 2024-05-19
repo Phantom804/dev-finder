@@ -38,7 +38,7 @@ Install dependencies
 After adding your DATABASE_URL to the .env file, synchronize your database schema by running:
 
 ```bash
-  db:push
+  npm run db:push
 ```
 
 Start the app
